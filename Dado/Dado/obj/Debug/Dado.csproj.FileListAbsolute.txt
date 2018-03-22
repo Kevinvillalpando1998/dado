@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\bin\Debug\Dado.exe.config
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\bin\Debug\Dado.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\bin\Debug\Dado.pdb
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.Form1.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.Properties.Resources.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Dado\Dado\obj\Debug\Dado.pdb
